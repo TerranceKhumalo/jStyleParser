@@ -38,7 +38,7 @@ this purpose:</p>
 			which can be used to parse embedded CSS declarations that is declarations between the &lt;style&gt; tags.
 	</li>
 </ul>
-<p>During the parsing process, the parser automatically imports all the style sheets referenced using the <code>@import</code>
+<p>sho During the parsing process, the parser automatically imports all the style sheets referenced using the <code>@import</code>
 rules. See the <d:ref target="media">Media</d:ref> section for further reference about how to limit this behavior to certain
 media only or disable it completely.</p>
 
